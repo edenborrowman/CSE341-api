@@ -19,7 +19,7 @@ exports.getProfessional = (req, res, next) => {
     },
     githubLink: {
       text: "See my computer hacking skills here.",
-      link: "github.com/edenborrowman",
+      link: "https://github.com/edenborrowman",
     },
     contactText:
       "You can instant message me...if Kip isn't busy talking to babes all day in chat rooms.",
